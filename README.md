@@ -1,5 +1,6 @@
 # ZeroNet
-
+ 
+[![Build Status](https://travis-ci.org/Nat-As/ZeroNet.svg?branch=py3)](https://travis-ci.org/Nat-As/ZeroNet)
 
 Decentralized websites using Bitcoin crypto and the BitTorrent network - https://zeronet.io
 
